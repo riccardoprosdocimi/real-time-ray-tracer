@@ -4,8 +4,8 @@
 
 ---
 
-<img src="./part1/media/projectScreenshot1.png" width="2624" alt="static ray tracing">
-<img src="./part1/media/projectScreenshot2.png" width="2880" alt="real-time ray tracing">
+<img src="./assets/media/projectScreenshot1.png" width="2624" alt="static ray tracing">
+<img src="./assets/media/projectScreenshot2.png" width="2880" alt="real-time ray tracing">
 
 ---
 
