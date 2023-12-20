@@ -9,7 +9,7 @@
 
 ---
 
-* Partners' name
+* Partners' names:
   * Team member 1: Calvin Fuller
   * Team member 2: Riccardo Prosdocimi
 * External resources:
