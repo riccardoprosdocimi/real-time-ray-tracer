@@ -10,7 +10,7 @@
 ---
 
 ### Usage:
-1. Move the folder `SDL2.framework` to the `Library/Frameworks` directory if you're on a Mac
+1. Move [SDL2.framework](./SDL2.framework) to the `Library/Frameworks` directory if you're on a Mac
 2. Open the Terminal or Command Prompt
 3. Cd into the `real-time-ray-tracer` directory
 4. Type `python3 build.py` and hit enter/return
