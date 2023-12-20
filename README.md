@@ -17,6 +17,8 @@
 5. Type `./project` and hit enter/return
 6. Read the instructions output in the Terminal or Command Prompt window
 
+---
+
 * Partners' names:
   * Team member 1: Calvin Fuller
   * Team member 2: Riccardo Prosdocimi
